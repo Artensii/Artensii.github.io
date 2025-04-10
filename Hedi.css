@@ -1,0 +1,10 @@
+body{
+    background-color: whitesmoke;
+    font-family: fantasy;
+    font-size: 3.1em;
+    text-align: center;
+}
+#cheezburger{
+    position: relative;
+    top: 00px;
+}
